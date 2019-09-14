@@ -1,4 +1,2 @@
-application:
-  eventFinder:
-    url: https://www.eventfinder.com
-    appId: 9878677755
+application.eventFinder.url: https://www.eventfinder.com
+application.eventFinder.appId: 9878677755
